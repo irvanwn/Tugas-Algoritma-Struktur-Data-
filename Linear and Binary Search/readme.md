@@ -1,4 +1,4 @@
-### Apa itu Linear dan Binary search?
+## Apa itu Linear dan Binary search?
 
 - Linear Search
 	Linear Search merupakan sebuah teknik pencarian data dengan menelusuri semua data satu per satu secara berurutan. Apabila ditemukan kecocokan data maka program akan mengembalikan output, jika tidak pencarian akan terus berlanjut hingga akhir dari array tersebut. data yang dicari pun tidak perlu diurutkan terlebih dahulu, namun dengan teknik pencarian linear search jika data yang dicari banyak akan memakan waktu lebih lama karena program akan mencari satu per satu data hingga akhir data.
