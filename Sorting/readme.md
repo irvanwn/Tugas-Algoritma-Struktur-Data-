@@ -18,3 +18,4 @@
 	Selection sort merupakan sebuah teknik pengurutan dengan cara mencari nilai tertinggi / terendah di dalam array kemudian menempatkan nilai tersebut di tempat semestinya. logika sederhananya yaitu  akan dicari data yang nilainya paling tinggi/rendah, lalu ditempatkan di indeks terakhir/awal. semisal terdapat 4 data dan diurutkan dengan mencari nilai tertinggi, langkah pertama akan dicari satu data nilai tertinggi dari 4 data tersebut, lalu satu data tersebut diletakan di indeks terakhir , lalu karena 1 data sudah berada di indeks terakhir (indeks 3) dan tersisa 3 maka akan dicari nilai tertinggi dari 3 data tersebut dan diletakan di indeks terakhir dikurangi satu (indeks 2) dan seterusnya sampai indeks 1 lebih besar dari indeks 0.
 	
 	![Screenshot 2022-03-04 191301](https://user-images.githubusercontent.com/93828626/156765933-ce0659a1-305c-4528-adeb-eac38dd0a389.jpg)
+	
