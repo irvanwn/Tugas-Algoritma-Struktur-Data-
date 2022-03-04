@@ -1,7 +1,7 @@
 ## 3 Jenis Sorting
 
 - Bubble Sort  
-	Algoritma Bubble Sort ini merupakan proses pengurutan yang secara berangsur-angsur berpindah ke posisi yang tepat. Bubble Sort mengurutkan data dengan cara membandingkan data 1 dengan data 2, lalu data 2 dengan data 3 dan seterusnya. semisal jika data 1 lebih besar dari data 2 maka data 1 (data yang lebih besar) akan ditukar posisinya dengan data 2 sehingga bagian kanan atau index yang lebih besar memiliki nilai data yang lebih besar juga, jika data 1 lebih kecil maka data tidak akan bertukar posisi. proses akan terus berlangsung hingga tidak ada data yang berpindah.
+	<pre>Algoritma Bubble Sort ini merupakan proses pengurutan yang secara berangsur-angsur berpindah ke posisi yang tepat. Bubble Sort mengurutkan data dengan cara membandingkan data 1 dengan data 2, lalu data 2 dengan data 3 dan seterusnya. semisal jika data 1 lebih besar dari data 2 maka data 1 (data yang lebih besar) akan ditukar posisinya dengan data 2 sehingga bagian kanan atau index yang lebih besar memiliki nilai data yang lebih besar juga, jika data 1 lebih kecil maka data tidak akan bertukar posisi. proses akan terus berlangsung hingga tidak ada data yang berpindah.
 	
 	![Screenshot 2022-03-04 191039](https://user-images.githubusercontent.com/93828626/156765878-aad1e595-3231-4d41-ac44-1cb623cb1cd6.jpg)
 
