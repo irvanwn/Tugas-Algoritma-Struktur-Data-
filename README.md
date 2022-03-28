@@ -7,5 +7,5 @@
   b. [Insertion Sort](https://github.com/irvanwn/Tugas-Algoritma-Struktur-Data-/blob/main/Sorting/insertionsort.c)  
   c. [Selection Sort](https://github.com/irvanwn/Tugas-Algoritma-Struktur-Data-/blob/main/Sorting/selectionsort.c)  
   d. [Challenge](https://github.com/irvanwn/Tugas-Algoritma-Struktur-Data-/blob/main/Sorting/challange.c)  
-3. [Linked List](https://github.com/irvanwn/Tugas-Algoritma-Struktur-Data-/tree/main/Linked%20List) 
+3. [Linked List](https://github.com/irvanwn/Tugas-Algoritma-Struktur-Data-/tree/main/Linked%20List)  
   [Linked list Challange](https://github.com/irvanwn/Tugas-Algoritma-Struktur-Data-/blob/main/Linked%20List/LinkedListChallange.c)
